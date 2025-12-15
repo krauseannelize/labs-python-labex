@@ -5,7 +5,5 @@ These labs reinforce essential Python concepts through hands‑on practice, rang
 
 ## Quick Access
 
-## Quick Access
-
 | Lab | Lab Name | Description | Highlights |
 | --- | --- | --- | --- |
