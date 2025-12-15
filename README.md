@@ -1,6 +1,6 @@
 # Labs: Python LabEx
 
-Collection of selected Python labs from LabEx, organized by course outline. These labs reinforce essential Python concepts through hands‑on practice, ranging from foundational syntax to more advanced problem‑solving.
+Collection of LabEx Python labs designed to reinforce essential concepts through hands‑on practice, from basics to advanced topics.
 
 ## Quick Access
 
